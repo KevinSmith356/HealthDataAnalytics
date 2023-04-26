@@ -1,0 +1,68 @@
+city,state,census_tract,Population,county,hrc_count
+Winchester,VA,0,6085,Winchester City,2
+Norfolk,VA,4,1355,Norfolk City,1
+Chesapeake,VA,21,6539,Chesapeake City,1
+Richmond,VA,30,2821,Richmond City,2
+Newport News,VA,32,3297,Newport News City,1
+Galax,VA,70,2740,,1
+Franklin,VA,90,4639,Franklin City,1
+Baltimore,MD,130,4729,Baltimore City,1
+Baltimore,MD,200,2122,Baltimore City,1
+Alexandria,VA,201,3415,Alexandria City,1
+Baltimore,MD,210,3681,Baltimore City,1
+Baltimore,MD,220,4238,Baltimore City,1
+Brooklyn,MD,250,4256,Baltimore City,1
+Baltimore,MD,271,6461,Baltimore City,1
+Baltimore,MD,280,3070,Baltimore City,1
+Petersburg,VA,811,3128,Sussex,1
+Cumberland,MD,1000,2241,Allegany,1
+Washington,DC,1001,4521,District of Columbia,1
+Washington,DC,1002,5219,District of Columbia,3
+Washington,DC,1003,3088,District of Columbia,3
+Washington,DC,1004,3269,District of Columbia,2
+Washington,DC,1005,2408,District of Columbia,2
+Washington,DC,1006,2492,District of Columbia,4
+Washington,DC,1007,4931,,1
+Washington,DC,1008,3190,District of Columbia,1
+Washington,DC,1009,2290,District of Colu,1
+Washington,DC,1010,6199,District of Columbia,2
+Washington,DC,1011,5192,,1
+Christiansburg,VA,1020,3922,,1
+Strasburg,VA,1040,5812,Shenandoah,1
+Richmond,VA,1100,5019,,1
+Germantown,MD,1700,6352,Montgomery,1
+Takoma Park,MD,1701,3777,Montgomery,1
+Frederick,MD,1750,3317,Frederick,1
+Frederick,MD,1772,1745,Frederick,1
+Hagerstown,MD,3010,6223,Washington,1
+Millersville,MD,3730,6928,Anne Arundel,2
+Glen Burnie,MD,3750,2908,Anne Arundel,1
+Laurel,MD,3800,2421,Prince Georges,1
+Dinwiddie,VA,3840,4050,Dinwiddie,1
+Manassas,VA,3910,7435,Manassas City,1
+Floyd,VA,3920,2590,Floyd,1
+Lexington,VA,3930,3566,Lexington City,1
+Salem,VA,5010,3155,Salem,1
+Port Deposit,MD,5031,5950,Cecil,1
+Williamsburg,VA,5080,3351,James City,1
+Bel Air,MD,5301,7698,Harford,1
+Havre de Grace,MD,5306,2286,Harford,1
+Glen Allen,VA,5320,5265,Henrico,1
+Windsor Mill,MD,5402,6910,Baltimore,1
+Pikesville,MD,5403,2392,Baltimore,1
+Nottingham,MD,5411,3942,Baltimore,1
+Rosedale,MD,5450,3734,Baltimore,1
+Towson,MD,5490,4281,Baltimore,1
+Spotsylvania,VA,7020,6213,Spotsylvania,1
+Richmond,VA,7200,2053,Henrico,1
+Elkridge,MD,7601,7481,Howard,1
+Sterling,VA,7611,3705,Loudoun,1
+Waldorf,MD,7850,5387,Charles,1
+Charlotte Hall,MD,7875,5743,Charles,1
+Culpeper,VA,7930,7225,Culpeper,1
+Pocomoke City,MD,7951,4760,Worcester,1
+Stafford,VA,9010,9149,Stafford,1
+Falls Church,VA,9440,7364,,1
+Herndon,VA,9480,3926,Fairfax,1
+Lusby,MD,9860,5091,Calvert,1
+Cambridge,MD,9970,4003,Dorchester,1

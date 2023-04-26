@@ -1,0 +1,25 @@
+county,year,state,population,crime_count,hrc_count
+Allegany County,2020,MD,69699,1529,1
+Anne Arundel County,2020,MD,581937,10433,3
+Baltimore City,2020,MD,588594,28147,5
+Baltimore County,2020,MD,826987,20045,8
+Calvert County,2020,MD,92622,866,2
+Caroline County,2020,MD,33336,459,0
+Carroll County,2020,MD,168032,1373,0
+Cecil County,2020,MD,102707,2027,1
+Charles County,2020,MD,164609,2669,2
+Dorchester County,2020,MD,31742,982,1
+Frederick County,2020,MD,261667,2671,2
+Garrett County,2020,MD,28797,357,0
+Harford County,2020,MD,255760,2217,2
+Howard County,2020,MD,329010,3993,1
+Kent County,2020,MD,19273,152,0
+Montgomery County,2020,MD,1055918,16594,3
+Prince George's County,2020,MD,911234,19401,1
+Queen Anne's County,2020,MD,50510,437,0
+Somerset County,2020,MD,25440,398,0
+St. Mary's County,2020,MD,114031,1744,0
+Talbot County,2020,MD,36983,477,0
+Washington County,2020,MD,150927,2249,1
+Wicomico County,2020,MD,103796,2202,0
+Worcester County,2020,MD,52191,1536,1
